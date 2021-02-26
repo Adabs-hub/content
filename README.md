@@ -1,4 +1,4 @@
-# Contributing to the content of MDN Web Docs34
+# Contributing to the content of MDN Web Docs3
 
 :tada: First of all, thanks for taking the time to contribute to
 [MDN Web Docs](https://developer.mozilla.org)! :tada:
