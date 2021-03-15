@@ -44289,36 +44289,13 @@
       "david_ross"
     ]
   },
-  "Web/API/DocumentOrShadowRoot/elementFromPoint": {
-    "modified": "2020-10-15T21:49:27.541Z",
+  "Web/API/DocumentOrShadowRoot/caretPositionFromPoint": {
+    "modified": "2020-10-15T21:49:27.908Z",
     "contributors": [
-      "Zearin_Galaurum",
-      "sideshowbarker",
-      "Nickolay",
-      "Sheppy",
-      "ExE-Boss",
-      "rsinohara",
+      "mfluehr",
+      "myakura",
       "fscholz",
       "chrisdavidmills",
-      "HolgerJeromin",
-      "david_ross",
-      "jpmedley"
-    ]
-  },
-  "Web/API/DocumentOrShadowRoot/elementsFromPoint": {
-    "modified": "2020-10-15T21:49:27.171Z",
-    "contributors": [
-      "mfuji09",
-      "Zearin_Galaurum",
-      "sideshowbarker",
-      "samthor",
-      "LucasSouza6",
-      "ExE-Boss",
-      "progers",
-      "fscholz",
-      "chrisdavidmills",
-      "HolgerJeromin",
-      "mbhall88",
       "david_ross",
       "jpmedley"
     ]
@@ -165777,13 +165754,36 @@
       "david_ross"
     ]
   },
-  "Web/API/Document/caretPositionFromPoint": {
-    "modified": "2020-10-15T21:49:27.908Z",
+  "Web/API/Document/elementFromPoint": {
+    "modified": "2020-10-15T21:49:27.541Z",
     "contributors": [
-      "mfluehr",
-      "myakura",
+      "Zearin_Galaurum",
+      "sideshowbarker",
+      "Nickolay",
+      "Sheppy",
+      "ExE-Boss",
+      "rsinohara",
       "fscholz",
       "chrisdavidmills",
+      "HolgerJeromin",
+      "david_ross",
+      "jpmedley"
+    ]
+  },
+  "Web/API/Document/elementsFromPoint": {
+    "modified": "2020-10-15T21:49:27.171Z",
+    "contributors": [
+      "mfuji09",
+      "Zearin_Galaurum",
+      "sideshowbarker",
+      "samthor",
+      "LucasSouza6",
+      "ExE-Boss",
+      "progers",
+      "fscholz",
+      "chrisdavidmills",
+      "HolgerJeromin",
+      "mbhall88",
       "david_ross",
       "jpmedley"
     ]
